@@ -1,4 +1,4 @@
-// Calculate the time it takes between a setTimeout call and the inner function actually running.
+// Calculate the time it takes between the setTimeout call and the inner function actually running.
 
 let i = new Date().getTime();
 
