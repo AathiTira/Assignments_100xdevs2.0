@@ -1,4 +1,4 @@
-//  Create a terminal clock (HH:MM:SS)
+//  Create a clock (HH:MM:SS)
 
 setInterval(() => {
   let time = new Date().toLocaleDateString();
