@@ -9,3 +9,7 @@ Assignment - [Coding challenges in Js](https://github.com/AathiTira/Assignments_
 # Week 2 :
 Learning Outcomes: Async/await, HTTP server using Node.js  
 Assignment - [Async/await](https://github.com/AathiTira/Assignments_100xdevs2.0/tree/9849c8c3b4eb610d20b5376bfffddcb5daa18b64/Week%202)
+
+# Week 3 :
+Learning Outcomes: Middlewares, JWTs and Databases  
+Assignment - [Middlewares and JWTs](https://github.com/AathiTira/Assignments_100xdevs2.0/tree/7d287285dfe864b8deefac407f16c1b0e904f774/Week%203)
