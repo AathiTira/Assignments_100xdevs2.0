@@ -12,4 +12,4 @@ Assignment - [Async/await](https://github.com/AathiTira/Assignments_100xdevs2.0/
 
 # Week 3 :
 Learning Outcomes: Middlewares, JWTs and Databases  
-Assignment - [Middlewares and JWTs](https://github.com/AathiTira/Assignments_100xdevs2.0/tree/7d287285dfe864b8deefac407f16c1b0e904f774/Week%203)
+Assignment - [Middlewares](https://github.com/AathiTira/Assignments_100xdevs2.0/tree/6bbaa547ab41985775e192fb594d3fdcbd179f49/Week%203/MIddlewares)
