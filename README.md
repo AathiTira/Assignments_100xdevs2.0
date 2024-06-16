@@ -11,5 +11,5 @@ Learning Outcomes: Async/await, and HTTP server (Node.js)
 Assignment - [Async/await](https://github.com/AathiTira/Assignments_100xdevs2.0/tree/9849c8c3b4eb610d20b5376bfffddcb5daa18b64/Week%202)
 
 # Week 3 :
-Learning Outcomes: Middlewares, JWTs and Databases  
+Learning Outcomes: Middlewares, JWTs, and Databases  
 Assignment - [Middlewares](https://github.com/AathiTira/Assignments_100xdevs2.0/tree/6bbaa547ab41985775e192fb594d3fdcbd179f49/Week%203/MIddlewares), [JWTs](https://github.com/AathiTira/Assignments_100xdevs2.0/tree/6bbaa547ab41985775e192fb594d3fdcbd179f49/Week%203/JWT)
