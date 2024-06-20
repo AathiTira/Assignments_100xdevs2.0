@@ -2,7 +2,7 @@ const express = require('express');
 const app = express();
 
 // You have been given an express server which has a few endpoints.
-// Your task is to create a global middleware (app.use) which will
+// Your task is to create a global middleware (using app.use) which will
 // rate limit the requests from a user to only 5 request per second
 // If a user sends more than 5 requests in a single second, the server
 // should block them with a 404.
