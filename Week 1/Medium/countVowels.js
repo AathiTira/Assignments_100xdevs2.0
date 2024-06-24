@@ -4,7 +4,6 @@
   Once you've implemented the logic, test your code by running
     
   To Run file -> PS C:\Users\chand\Desktop\100xdevs_2.0\0-1\week1\assignments\mediun> npx jest ./tests/countVowels.test.js
-
   */
 
   function countVowels(str) {
