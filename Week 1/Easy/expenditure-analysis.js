@@ -9,7 +9,8 @@
 		category: 'Food',
 		itemName: 'Pizza',
 	}
-  Output - [{ category: 'Food', totalSpent: 10 }] // Can have multiple categories, only one example is mentioned here */
+  Output - [{ category: 'Food', totalSpent: 10 }] // Can have multiple categories, only one example is mentioned here 
+  */
 
 
 function calculateTotalSpentByCategory(Transactions) {
