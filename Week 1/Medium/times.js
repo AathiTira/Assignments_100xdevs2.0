@@ -4,8 +4,7 @@ Try running it for
 2. Sum from 1 to 100000
 3. Sum from 1 to 1000000000
 Hint - use Date class exposed in JS
-There is no automated test for this one, this is more for you to understand time goes up as computation goes up
-*/
+There is no automated test for this one, this is more for you to understand time goes up as computation goes up */
 
 function calculateTime(n) {
   let x = 0;
