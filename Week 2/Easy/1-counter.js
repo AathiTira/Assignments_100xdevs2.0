@@ -1,4 +1,5 @@
-// Code a counter in Javascript, it should go up as time goes by in intervals of 1 second
+/* Code a counter in Javascript, it should go up as time goes by in intervals of 1 second
+*/
 
 let count = 0;
 
