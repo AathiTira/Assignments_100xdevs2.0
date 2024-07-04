@@ -18,7 +18,7 @@ class Todo {
 
   remove(indexOfTodo) {
     if(indexOfTodo < 0 || indexOfTodo >= this.todos.length){
-      // throw new Error('Invalid index');
+      /* throw new Error('Invalid index'); */
       return
     }
     this.todos.splice(indexOfTodo, 1);
