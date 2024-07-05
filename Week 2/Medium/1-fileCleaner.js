@@ -5,7 +5,7 @@ const fs = require('fs').promises;
 
 async function removeExtraSpaces(filePath) {
     try {
-        // Read the file content
+        /* Read the file content */
         const data = await fs.readFile(filePath, 'utf8');
         
         // Remove extra spaces (leading, trailing, and multiple spaces between words)
