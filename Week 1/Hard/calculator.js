@@ -15,7 +15,8 @@
   Once you've implemented the logic, test your code by running */
 
 class Calculator {
-  /* initialise a result variable in the constructor and keep updating it after every arithmetic operation */
+  /* initialise a result variable in the constructor and keep updating it after every arithmetic operation 
+  */
   constructor() {
     this.result = 0;
   }
