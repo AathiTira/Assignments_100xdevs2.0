@@ -7,7 +7,7 @@ async function removeExtraSpaces(filePath) {
         /* Read the file content */
         const data = await fs.readFile(filePath, 'utf8');
         
-        // Remove extra spaces (leading, trailing, and multiple spaces between words)
+        /* Remove extra spaces (leading, trailing, and multiple spaces between words) */
         const modifiedData = data.replace(/\s+/g, ' ').trim();
         
         // Write the modified content back to the same file
