@@ -1,5 +1,4 @@
-/* Try to code a counter in Javascript, without using setInterval
-*/
+/* Try to code a counter in Javascript, without using setInterval */
 
 let count = 0;
 
