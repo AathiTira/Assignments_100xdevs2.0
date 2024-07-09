@@ -1,4 +1,5 @@
-/* Try to write to the contents of a file, using the fs library again */
+/* Try to write to the contents of a file, using the fs library again 
+*/
 
 const fs = require('fs');
 
