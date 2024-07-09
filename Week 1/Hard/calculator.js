@@ -16,8 +16,7 @@
   */
 
 class Calculator {
-  /* initialise a result variable in the constructor and keep updating it after every arithmetic operation 
-  */
+  /* initialise a result variable in the constructor and keep updating it after every arithmetic operation */
   constructor() {
     this.result = 0;
   }
