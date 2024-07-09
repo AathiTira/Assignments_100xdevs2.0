@@ -7,7 +7,8 @@ Implement a class `Todo` having below methods
     - get(indexOfTodo): returns todo at given index
     - clear: deletes all todos
 
-  Once you've implemented the logic, test your code by running */
+  Once you've implemented the logic, test your code by running 
+  */
 
 class Todo {
   constructor() {
